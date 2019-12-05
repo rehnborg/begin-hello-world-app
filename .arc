@@ -1,9 +1,7 @@
-# Warning: do not edit
-# --------------------
-# This is a generated file and will be overwritten
-
 @app
-begin-app
+party-ha0
+
+@static
 
 @http
 get /
